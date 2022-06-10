@@ -12,6 +12,11 @@ int main(){
 	area = PI * radius * radius;
 	printf("Area of the circle = %0.3f \n", area);
         printf("Hello Harshini");
+<<<<<<< HEAD
 	printf("Hello drishti");
+=======
+        printf("hello world");
+
+>>>>>>> c42ac2cf41f7fbb844f2230a5e05d53d770daa02
 	return 0;
 }
